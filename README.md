@@ -1,1 +1,22 @@
 # Bill_App
+
+# Overview
+
+This program is a simple bill tracking system that allows the user to add, save, and load bills to/from a file. 
+The program is written in C++ and uses the standard library for input/output and file operations.
+
+This program was created as a simple project for learning C++ and programming concepts.
+Thanks to the various online resources and tutorials that were used during development.
+
+
+# Development Environment
+
+C++ v, 1.15.4
+Visual Studios (Latest Version)
+Powercell v. 7.3.4 recommended
+
+# Useful Websites
+
+
+* [Code Academy](https://www.codecademy.com/learn/learn-c-plus-plus)
+* [C++ by: Daniel Gakwaya; freecodecamp.org](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=219s)
